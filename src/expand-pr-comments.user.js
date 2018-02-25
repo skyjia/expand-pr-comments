@@ -11,7 +11,7 @@
 // @include      /^https://github\.com/(\w|-)+/(\w|-)+/pull/\d+/
 // @run-at       document-body
 // @grant        none
-// @license      MIT
+// @license MIT
 // ==/UserScript==
 
 (function() {
