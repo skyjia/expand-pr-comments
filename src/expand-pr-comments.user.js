@@ -2,6 +2,7 @@
 // @name         Expand All PR Comments
 // @description  Expand all GitHub PR comments including outdated ones.
 // @author       skyjia
+// @oujs:author  skyjia
 // @namespace    https://github.com/skyjia
 // @version      0.1.1
 // @homepageURL  https://github.com/skyjia/expand-pr-comments/
