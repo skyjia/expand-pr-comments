@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name         Expand All PR Comments
-// @description  Expand all GitHub PR comments including outdated comments.
+// @description  Expand all GitHub PR comments including outdated ones.
 // @author       skyjia
 // @namespace    https://github.com/skyjia
-// @version      0.1
-// @updateURL    https://github.com/skyjia/expand-pr-comments/blob/master/src/expand-pr-comments.js
-// @downloadURL  https://github.com/skyjia/expand-pr-comments/blob/master/src/expand-pr-comments.js
+// @version      0.1.1
 // @homepageURL  https://github.com/skyjia/expand-pr-comments/
 // @supportURL   https://github.com/skyjia/expand-pr-comments/issues
 // @include      /^https://github\.com/(\w|-)+/(\w|-)+/pull/\d+/
