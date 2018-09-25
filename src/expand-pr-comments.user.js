@@ -7,6 +7,7 @@
 // @version      0.1.3
 // @homepageURL  https://github.com/skyjia/expand-pr-comments/
 // @supportURL   https://github.com/skyjia/expand-pr-comments/issues
+// @updateURL    https://raw.githubusercontent.com/skyjia/expand-pr-comments/master/src/openuserjs.meta.js
 // @include      /^https://github\.com/(\w|-)+/(\w|-)+/pull/\d+/
 // @run-at       document-body
 // @grant        none
