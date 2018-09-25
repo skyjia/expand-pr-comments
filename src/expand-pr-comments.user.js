@@ -4,7 +4,7 @@
 // @author       skyjia
 // @oujs:author  skyjia
 // @namespace    https://github.com/skyjia
-// @version      0.1.2
+// @version      0.1.3
 // @homepageURL  https://github.com/skyjia/expand-pr-comments/
 // @supportURL   https://github.com/skyjia/expand-pr-comments/issues
 // @include      /^https://github\.com/(\w|-)+/(\w|-)+/pull/\d+/
@@ -16,7 +16,7 @@
 (function() {
     'use strict';
     var expandAllComments = function () {
-        Array.from(document.getElementsByClassName('outdated-comment')).forEach(l => l.classList.add('open'));
+        Array.from(document.getElementsByClassName('outdated-comment')).forEach(l => l.setAttribute('open',''));
     };
 
     // Added a button in PR's action bar.
